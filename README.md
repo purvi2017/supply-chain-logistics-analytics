@@ -1,5 +1,7 @@
 # 🚚 Supply Chain & Logistics Performance Analytics
 
+   🔗 **Live Dashboard:** https://supply-chain-analytics-purvi.streamlit.app
+
 An end-to-end data analytics project that measures how well a global e-commerce supply chain delivers orders.
 It tracks on-time delivery, lead time, late-delivery hot spots, fulfilment, fraud and product (ABC) priority,
 and uses machine learning to predict late deliveries before they happen.
@@ -123,6 +125,7 @@ An interactive Streamlit dashboard with filters for date, market, shipping mode 
 ```bash
 streamlit run dashboard/app.py
 ```
+   🔗 **Live Dashboard:** https://supply-chain-analytics-purvi.streamlit.app
 
 ## ▶️ How to Run
 
