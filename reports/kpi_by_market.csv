@@ -1,0 +1,6 @@
+market,orders,late_pct,on_time_pct,avg_scheduled_days,avg_actual_days,avg_delay_days,net_sales
+Africa,659,59.33,40.67,2.87,3.59,0.72,224431.68
+LATAM,3244,58.2,41.8,2.94,3.59,0.66,1035631.49
+Europe,3147,57.45,42.55,2.92,3.52,0.6,1040133.49
+Pacific Asia,2614,56.92,43.08,2.96,3.55,0.59,846984.59
+USCA,1568,55.61,44.39,3.0,3.5,0.5,518676.94

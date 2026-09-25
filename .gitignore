@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Generated data (recreate with: python src/cleaning.py)
+data/processed/*
+
+# Full Kaggle file is ~95 MB - too large for GitHub, download it separately
+data/raw/DataCoSupplyChainDataset.csv
+
+# OS
+.DS_Store
+Thumbs.db
+!data/processed/.gitkeep
